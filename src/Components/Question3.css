@@ -1,0 +1,33 @@
+/* Question3.css */
+
+.Question3 {
+    background-color: #1a1a1a;
+    color: #ffffff;
+    padding: 20px;
+  }
+  
+  .Question3 h2 {
+    color: #f1c40f; /* Yellow color for heading */
+    margin-bottom: 10px;
+  }
+  
+  .Question3 p {
+    margin-bottom: 10px;
+  }
+  
+  .Question3 label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .Question3 textarea,
+  .Question3 input {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    background-color: #2c2c2c; /* Dark gray background for input elements */
+    color: #ffffff; /* White text color for input elements */
+  }
+  
+  /* Add more styles as needed for different elements */
+  

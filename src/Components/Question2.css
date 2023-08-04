@@ -1,0 +1,55 @@
+/* Question2.css */
+
+.Question2 {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+  }
+  
+  .SentenceWrapper {
+    margin-bottom: 20px;
+  }
+  
+  .Sentence {
+    width: 100%;
+    min-height: 100px;
+    background-color: #444;
+    color: #fff;
+    padding: 10px;
+    border-radius: 4px;
+    outline: none;
+    resize: vertical;
+  }
+  
+  .OptionsWrapper {
+    margin-bottom: 20px;
+  }
+  
+  .Options {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+  
+  .Option {
+    padding: 5px 10px;
+    background-color: #6ca0f7;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .PreviewWrapper {
+    margin-bottom: 20px;
+  }
+  
+  .Preview {
+    
+      margin: 0;
+    
+  }
+  
+  .UnderlinedWord {
+    margin-top: 10px;
+  }
+  
